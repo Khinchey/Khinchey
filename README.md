@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khinchey
 - 👀 I’m interested in watching movies and kdramas.  I've also started to paint more recently.
-- 🌱 I’m currently learning HTML, CSS and Javascript. I'm newborn status in the computer world.
+- 🌱 I’m currently learning HTML, CSS and Javascript. I'm new to the computer world.
 - 💞️ I’m looking to collaborate on app layouts and interfaces that catch the interest of others.
 - 📫 How to reach me ...
 
